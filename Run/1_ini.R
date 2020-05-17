@@ -1,0 +1,5 @@
+library(tidyverse)
+library(rtf)
+library(rvest)
+library(stringr)
+library(igraph)
